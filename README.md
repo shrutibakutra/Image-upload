@@ -1,6 +1,7 @@
 # Image-upload
 
 `How to run Project`
+
 cmd: python3 manage.py runserver
 
 `API Description`:
